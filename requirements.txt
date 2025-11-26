@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pdfplumber
+openai
+pydantic
+numpy
+scikit-learn
+tiktoken
+dotenv
+python-dotenv
+python-multipart
